@@ -16,7 +16,7 @@
 
         <div class="form-group">
             <label for="student_id">Student ID</label>
-            <input type="text" name="student_id" id="student_id" placeholder="B23F000SE000" required>
+            <input type="text" name="student_id" id="student_id" placeholder="FA21-BSE-001" required>
         </div>
 
         <div class="form-group">
@@ -48,7 +48,7 @@
             </div>
             <div class="form-group">
                 <label for="phone">Phone Number</label>
-                <input type="text" name="phone" id="phone" placeholder="03**-*******" required>
+                <input type="text" name="phone" id="phone" placeholder="03*********" required>
             </div>
         </div>
 
